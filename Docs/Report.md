@@ -27,3 +27,6 @@
 2. Предоставить документацию для более детального тестирования
 
 # Отчет Allure
+
+![20231130214608](https://github.com/Dmitryi1987/Diplom_QA/assets/121718473/11fd3d70-6cca-4002-a1e7-5312e20ba8a4)
+![20231130214602](https://github.com/Dmitryi1987/Diplom_QA/assets/121718473/00461c10-6efc-4834-83e6-f3e9976fdde7)
